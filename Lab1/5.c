@@ -11,8 +11,7 @@ int findPartition(int arr[], int n){
     }
     return -1;
 }
-int main()
-{
+int main(){
     int n, i;
     printf("Enter number of elements: ");
     scanf("%d", &n);
